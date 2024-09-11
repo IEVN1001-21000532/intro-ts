@@ -37,4 +37,4 @@ const nuevaMascota:Mascotas={
         console.log(`hola soy ${nuevaMascota.name} y tengo ${nuevaMascota.edad} años`);
     }
 }
-calcular(nuevaMascota,4)
+calcular(nuevaMascota,0)
